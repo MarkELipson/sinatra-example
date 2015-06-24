@@ -1,0 +1,12 @@
+#container{
+  width: 900px;
+  background-color: eggshell;
+}
+
+p{
+  font-size: 32px;
+}
+
+body{
+  background-color: salmon;
+}
